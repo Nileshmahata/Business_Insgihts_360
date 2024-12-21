@@ -32,7 +32,7 @@ Steps to Explore:
 Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/yourusername/Business-Insights-360.git
+git clone https://github.com/Nileshmahata/Business_Insgihts_360.git
 Open the Report.pbix file in Power BI Desktop.
 Interact with the dashboard to explore insights.
 💡 Learning Outcomes
