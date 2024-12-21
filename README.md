@@ -1,51 +1,60 @@
 # Business Insights 360: Power BI Dashboard Project
 **Empowering Businesses with Effective Insights**
 
-🔍 Project Overview
+🔍 **Project Overview**
+
 This project focuses on creating an interactive Power BI dashboard to analyze key business metrics and provide actionable insights for strategic decision-making. It showcases advanced data visualization techniques to evaluate performance and unlock growth opportunities.
 
-✨ Key Features
+✨ **Key Features**
+
 Customer Performance Analysis: Evaluate customer performance against sales targets.
 Market Performance Insights: Understand market trends and expansion opportunities.
 Actionable Recommendations: Optimize sales strategies to maximize revenue and customer satisfaction.
 Dynamic Visuals: Interactive charts and graphs for data exploration.
-🎯 Objective
+
+🎯 **Objective**
+
 The goal of this project is to empower businesses with tools to monitor, evaluate, and improve their sales activities by providing actionable insights that drive growth and maintain competitiveness.
 
-📂 Repository Contents
-Report.pbix: Power BI Dashboard file.
-Dataset.xlsx: The sales dataset used for analysis.
-/assets/screenshots: Folder containing screenshots of the Power BI dashboard.
-README.md: Project documentation.
-🖼️ Screenshots
 
-Add visuals of your dashboard here to make it more appealing.
+📊 **Tools & Technologies Used**
 
-📊 Tools & Technologies Used
 Microsoft Power BI: For creating the dashboard and visualizing data.
 Excel: Used for data preparation and preprocessing.
 Skills: Pivot tables, Power Query, basic DAX, conditional formatting, and report beautification.
-🚀 How to Use This Project
+
+🚀 **How to Use This Project**
+
 Prerequisites:
+
 Microsoft Power BI Desktop (Latest Version).
-Steps to Explore:
+
+**Steps to Explore:**
+
 Clone this repository to your local machine.
-bash
-Copy code
-git clone https://github.com/Nileshmahata/Business_Insgihts_360.git
+
+{git clone https://github.com/Nileshmahata/Business_Insgihts_360.git}
+
 Open the Report.pbix file in Power BI Desktop.
 Interact with the dashboard to explore insights.
-💡 Learning Outcomes
+
+💡 **Learning Outcomes**
+
 Developed advanced data visualization and storytelling skills.
 Gained insights into sales metrics and customer behavior.
 Enhanced proficiency in Power BI and Excel.
-📈 Actionable Insights from the Project
+
+📈 **Actionable Insights from the Project**
+
 Identify the most effective customer discounts to improve sales performance.
 Highlight markets with the highest potential for expansion.
 Negotiate with customers based on performance metrics.
-🙏 Acknowledgments
-Thanks to Codebasics for Power BI learning resources.
-Data sourced from [insert source, if applicable].
-🌟 Connect With Me
+
+🙏 **Acknowledgments**
+
+Thanks to @Codebasics for Power BI learning resources.
+
+🌟 **Connect With Me**
+
 LinkedIn: https://www.linkedin.com/in/nilesh-mahata-49389a1a5/
 
