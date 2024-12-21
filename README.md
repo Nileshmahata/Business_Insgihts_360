@@ -23,6 +23,27 @@ Microsoft Power BI: For creating the dashboard and visualizing data.
 Excel: Used for data preparation and preprocessing.
 Skills: Pivot tables, Power Query, basic DAX, conditional formatting, and report beautification.
 
+## 🖼️ Screenshots  
+
+### Dashboard Overview  
+![Dashboard Overview](assets/screenshots/Dashboard_overview.png)  
+
+### Finance_view
+![Market Insights](assets/screenshots/Finance_view.png)
+
+### Sales_view
+![Market Insights](assets/screenshots/Sales_view.png)
+
+### Marketing_view
+![Market Insights](assets/screenshots/Marketing_view.png)
+
+### Supplychain_view
+![Market Insights](assets/screenshots/Supplychain_view.png)
+
+### Executive_view  
+![Customer Analysis](assets/screenshots/Executive_view.png)  
+
+
 🚀 **How to Use This Project**
 
 Prerequisites:
